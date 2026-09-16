@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Default font for entire app */
+body {
+  font-family: 'Outfit', sans-serif;
+}
