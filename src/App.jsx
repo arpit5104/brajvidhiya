@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import About from "./pages/About";
+import IsoCertification from "./pages/IsoCertification";
 import ServicesPage from "./pages/ServicesPage";
 import Contact from "./pages/Contact";
 import GoalPage from "./pages/GoalPage";
@@ -22,6 +23,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
+        <Route path="/iso-certification" element={<IsoCertification />} />
         <Route path="/services" element={<ServicesPage/>} />
         <Route path="/services/:id" element={<ServiceDetail />} />
         <Route path="/goal" element={<GoalPage />} />

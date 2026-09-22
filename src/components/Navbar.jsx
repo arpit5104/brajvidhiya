@@ -5,6 +5,7 @@ import logo from "../assets/logos/finalLogo.jpeg";
 const navLinks = [
   { to: "/", label: "Home" },
   { to: "/about", label: "About" },
+  { to: "/iso-certification", label: "ISO Certification" },
   { to: "/services", label: "Services" },
   { to: "/goal", label: "Goal" },
   { to: "/contact", label: "Contact" },
