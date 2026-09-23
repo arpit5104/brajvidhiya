@@ -402,7 +402,7 @@ export default function IsoCertification() {
                 >
                   <div className="space-y-4">
                     {[
-                      "NABCB Accredited",
+                      "NABCB ACCREDITED IB",
                       "PAN India Service",
                       "Certified Auditors",
                       "Transparent Reporting",
